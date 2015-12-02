@@ -1,6 +1,12 @@
 # dockfile-tornado
 dockerfile for tornado
 
+功能点
+
+-   使用ubuntu 14.04
+-   自动配置ubuntu 163源，提高更新速度
+-   自动配置pip 阿里云源
+
 with simple start file 
 
 
